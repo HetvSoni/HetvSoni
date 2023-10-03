@@ -7,9 +7,6 @@
 A full-time frontend freelance developer 👨‍💻 </div>  
   
 
--   
-  
-
 - 🌱 I’m currently learning NodeJs, MySQL, MongoDB  
   
 
