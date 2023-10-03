@@ -69,11 +69,6 @@ A full-time frontend freelance developer 👨‍💻 </div>
 <br/>  
 
 
-## Github Stats  
-  
-
-<br/>  
-
 
 
 <br/>  
