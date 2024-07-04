@@ -7,7 +7,7 @@
 A full-time frontend freelance developer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning NodeJs, MySQL, MongoDB  
+- 🌱 I’m currently learning MySQL, Python, PowerBI
   
 
 - ❓ Ask me about anything related to React and React Native  
