@@ -1,91 +1,47 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I'm Hetvi Soni
-A full-time frontend freelance developer 👨‍💻 </div>  
-  
+---
 
-- 🌱 I’m currently learning MySQL, Python, PowerBI
-  
+### <div align="center">Hi 👋, I'm Hetvi Soni  
+A passionate Data Analyst 📊 turning raw data into actionable insights 🚀</div>  
 
-- ❓ Ask me about anything related to React and React Native  
-  
+---
 
-- ⚡ Fun fact: 🎶 Fun Fact: Did you know that listening to music you love while coding can boost productivity and creativity? Rock on, fellow developers! 🎸💻🎧
-  
-  
+- 🌱 Currently learning: **MySQL, Python, Power BI**  
+- 📊 Interested in: **Data Cleaning, Data Visualization, Business Intelligence, Predictive Analytics**  
+- ❓ Ask me about: **SQL queries, dashboards, and data storytelling**  
+- ⚡ Fun fact: I love finding patterns in messy data — it feels like solving a puzzle 🧩  
 
-<br/>  
+---
 
+## 🛠️ My Skill Set  
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
+### 📊 Data Analysis  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" height="50" /></a>  
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy-icon.svg" alt="NumPy" height="50" /></a>  
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50" /></a>  
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### Backend  
+### 🗄️ Databases  
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="50" /></a>  
 </div>
-</tr></table>  
 
 </td><td valign="top" width="33%">
 
-
-</td>
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/HetvSoni" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hetvi-soni-6b2b0a235/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+### 📈 BI & Visualization  
+<div align="center">  
+<a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="50" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="50" /></a>  
+<a href="https://excel.micro
